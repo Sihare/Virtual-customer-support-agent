@@ -1,0 +1,138 @@
+{
+  "chats": [
+    {
+      "id": "chat_1772125821196",
+      "customerId": "yrvQhZKVMMyEZKoOAAAD",
+      "customerName": "Aman",
+      "agentId": "7mNj3gOSnkEfRh7MAAAB",
+      "agentName": "Nikhil sihare",
+      "status": "closed",
+      "startedAt": "2026-02-26T17:10:21.196Z",
+      "closedAt": "2026-02-26T17:13:59.261Z"
+    },
+    {
+      "id": "chat_1772125955863",
+      "customerId": "7QMe6s_3pftl38okAAAF",
+      "customerName": "Golu",
+      "agentId": "N0YFa-XY-PEF2JzDAAAH",
+      "agentName": "Agent 2",
+      "status": "closed",
+      "startedAt": "2026-02-26T17:12:35.863Z",
+      "closedAt": "2026-02-26T17:13:48.591Z"
+    },
+    {
+      "id": "chat_1772164860577",
+      "customerId": "BJDu4KScctHjbBExAAAB",
+      "customerName": "Nikhil",
+      "agentId": "LVuw5O_MZdHytrIwAAAD",
+      "agentName": "xyz",
+      "status": "closed",
+      "startedAt": "2026-02-27T04:01:00.577Z",
+      "closedAt": "2026-02-27T04:10:40.410Z"
+    },
+    {
+      "id": "chat_1772164960176",
+      "customerId": "3Q4QOpK2eGpYRh5QAAAF",
+      "customerName": "qwert",
+      "agentId": "XKHHY8KaJH3tmqPIAAAL",
+      "agentName": "bali",
+      "status": "closed",
+      "startedAt": "2026-02-27T04:02:40.176Z",
+      "closedAt": "2026-02-27T04:10:38.209Z"
+    },
+    {
+      "id": "chat_1772165536494",
+      "customerId": "N0RK98So_liM7ebIAAAH",
+      "customerName": "Customer 1",
+      "agentId": "wHBKlNTwajHUkvm5AAAB",
+      "agentName": "first",
+      "status": "closed",
+      "startedAt": "2026-02-27T04:12:16.496Z",
+      "closedAt": "2026-02-27T04:20:07.387Z"
+    },
+    {
+      "id": "chat_1772165616557",
+      "customerId": "zmtSh9VIPRSOlVHkAAAJ",
+      "customerName": "customer 2",
+      "agentId": "kkbZEGSQpXQ8kq_GAAAD",
+      "agentName": "Second",
+      "status": "closed",
+      "startedAt": "2026-02-27T04:13:36.557Z",
+      "closedAt": "2026-02-27T04:20:06.957Z"
+    }
+  ],
+  "messages": [
+    {
+      "chatId": "chat_1772125821196",
+      "senderName": "Aman",
+      "role": "customer",
+      "content": "Hi i need help",
+      "time": "10:40:30 pm",
+      "id": 1
+    },
+    {
+      "chatId": "chat_1772125821196",
+      "senderName": "Nikhil sihare",
+      "role": "agent",
+      "content": "okay wht is the problem",
+      "time": "10:40:52 pm",
+      "id": 2
+    },
+    {
+      "chatId": "chat_1772125955863",
+      "senderName": "Agent 2",
+      "role": "agent",
+      "content": "hi",
+      "time": "10:43:10 pm",
+      "id": 3
+    },
+    {
+      "chatId": "chat_1772125955863",
+      "senderName": "Golu",
+      "role": "customer",
+      "content": "I am not good",
+      "time": "10:43:26 pm",
+      "id": 4
+    },
+    {
+      "chatId": "chat_1772164860577",
+      "senderName": "xyz",
+      "role": "agent",
+      "content": "Hii whats your problem",
+      "time": "9:31:19 am",
+      "id": 5
+    },
+    {
+      "chatId": "chat_1772164960176",
+      "senderName": "qwert",
+      "role": "customer",
+      "content": "Hii",
+      "time": "9:35:41 am",
+      "id": 6
+    },
+    {
+      "chatId": "chat_1772165536494",
+      "senderName": "Customer 1",
+      "role": "customer",
+      "content": "Hii",
+      "time": "9:42:25 am",
+      "id": 7
+    },
+    {
+      "chatId": "chat_1772165616557",
+      "senderName": "customer 2",
+      "role": "customer",
+      "content": "Hii",
+      "time": "9:43:40 am",
+      "id": 8
+    },
+    {
+      "chatId": "chat_1772165616557",
+      "senderName": "customer 2",
+      "role": "customer",
+      "content": "2",
+      "time": "9:43:49 am",
+      "id": 9
+    }
+  ]
+}
